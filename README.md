@@ -14,5 +14,7 @@ Run 'generate_results' script.  Runs several simulations with the following sett
 | EW Congestion  | 25%   | 25%   | 25%   | 25%   | 25%   | 25%   | 25%   | 25%   | 25%   | 25%   | 25%   | 25%   | 25%   | 25%   | 25%   | 25%   |
 | NWCongestion   | 5%    | 5%    | 10%   | 10%   | 15%   | 15%   | 20%   | 20%   | 25%   | 25%   | 30%   | 30%   | 35%   | 35%   | 40%   | 40%   |
 
+The total cost for all simulations are stored in the "results" variable.
+
 ## Fuzzy Rule Surface
 Run 'rule_surface' to display fuzzy rule surface.
